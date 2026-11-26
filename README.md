@@ -6,3 +6,4 @@
 | HEXACON2022 - bd-jb: Blu-ray Disc Sandbox Escape | | https://www.youtube.com/watch?v=QkKJOEmnzsk |
 | RomHack Conference 2024 - PlayStation 4 Remote Kernel Exploitation | [2024-romhack-pppwn.pdf](https://github.com/TheOfficialFloW/Presentations/blob/master/2024-romhack-pppwn.pdf) | https://www.youtube.com/live/u0vN74JgTGg?t=25822s |
 | TyphoonCon - Leveling Up: How Hacking Consoles Launched My Cybersecurity Career | [2025-typhooncon-leveling-up.pdf](https://github.com/TheOfficialFloW/Presentations/blob/master/2025-typhooncon-leveling-up.pdf) | |
+| Security Analyst Summit - Liberating the PS5 to Run Linux | [2026-sascon-ps5-linux.pdf](https://github.com/TheOfficialFloW/Presentations/blob/master/2026-sascon-ps5-linux.pdf) | |
